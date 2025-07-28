@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет, я GeorgeLevchuk! 👋
 
-<!--
-**GeorgeLevchuk/GeorgeLevchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Люблю код, технологии и кофе ☕**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Это мой персональный репозиторий-визитка. Здесь вы найдете:
+
+- 🔭 Мои текущие проекты
+- 🌱 То, что я сейчас изучаю
+- 👯 Возможности для сотрудничества
+- 🤔 Идеи для будущих проектов
+- 💬 Спросите меня о чем угодно
+- 📫 Как со мной связаться: [email/telegram/twitter]
+- 😄 Местоимения: (например: он/его, она/её, они/их)
+- ⚡ Интересный факт обо мне
+
+## Мои навыки 🛠️
+
+![Языки и технологии](https://skillicons.dev/icons?i=py,java,git,github)
+
+---
+
+⭐ От [GeorgeLevchuk](https://github.com/GeorgeLevchuk)
